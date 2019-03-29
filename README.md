@@ -1,6 +1,7 @@
 # FP reading club
 
 Our schedule
+
 | Date        |  Topic                 |
 | ----------- | -----------------------|
 |  09.10.2018 | Type classes           |
@@ -20,4 +21,4 @@ Our schedule
 |  26.02.2019 | Code review            |
 |  14.02.2019 | Code review II         |
 |  27.03.2019 | IO                     |
-                                       
+
