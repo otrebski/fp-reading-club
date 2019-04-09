@@ -36,4 +36,8 @@ Topis for future:
  - Property based testing
  - [John De Goes: FP to the MAX](https://www.youtube.com/watch?v=sxudIMiOo68)
  - [George Wilson - When Less is More and More is Less: Trade-Offs in Algebra](https://www.youtube.com/watch?v=VXl0EEd8IcU)
+ - Cats Effects
+ - Free Monad
+ - Tagless Final
+ 
 
