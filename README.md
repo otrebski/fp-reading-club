@@ -34,4 +34,5 @@ Our schedule
 Topis for future:
  - [ZIO](https://scalaz.github.io/scalaz-zio/)
  - Property based testing
+ - John De Goes: FP to the MAX https://www.youtube.com/watch?v=sxudIMiOo68
 
