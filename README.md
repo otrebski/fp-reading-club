@@ -24,11 +24,13 @@ This page is for scheduling FP reading club meetings and topics.
 |  14.02.2019 | Tagless Final workshop | |
 |  26.02.2019 | Code review                   | Examples from our code                                                           |
 |  14.02.2019 | Code review II                | Examples from our code                                                           |
+|  06.03.2019 | State Monad workshop | [Project on github](https://github.com/otrebski/state-monad) |
 |  27.03.2019 | Cats Effects - IO: Describing Effects        | [Cats doc](https://typelevel.org/cats-effect/datatypes/io.html#describing-effects)           |
 
 
 
 ## Topis for future:
+ - IO, how it can be used and what are benefits
  - [ZIO](https://scalaz.github.io/scalaz-zio/)
  - Property based testing
  - [John De Goes: FP to the MAX](https://www.youtube.com/watch?v=sxudIMiOo68)
