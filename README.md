@@ -35,5 +35,5 @@ Topis for future:
  - [ZIO](https://scalaz.github.io/scalaz-zio/)
  - Property based testing
  - [John De Goes: FP to the MAX](https://www.youtube.com/watch?v=sxudIMiOo68)
- - [https://www.youtube.com/watch?v=VXl0EEd8IcU](https://www.youtube.com/watch?v=VXl0EEd8IcU)
+ - [George Wilson - When Less is More and More is Less: Trade-Offs in Algebra](https://www.youtube.com/watch?v=VXl0EEd8IcU)
 
