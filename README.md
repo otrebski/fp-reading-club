@@ -29,7 +29,7 @@ This page is for scheduling FP reading club meetings and topics.
 
 
 
-## Topis for future:
+## Topics for future:
  - IO, how it can be used and what are benefits
  - [ZIO](https://scalaz.github.io/scalaz-zio/)
  - Property based testing
