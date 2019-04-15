@@ -26,6 +26,21 @@ This page is for scheduling FP reading club meetings and topics.
 |  14.02.2019 | Code review II                | Examples from our code                                                           |
 |  06.03.2019 | State Monad workshop | [Project on github](https://github.com/otrebski/state-monad) |
 |  27.03.2019 | Cats Effects - IO: Describing Effects        | [Cats doc](https://typelevel.org/cats-effect/datatypes/io.html#describing-effects)           |
+|  16.04.2019 | Discussion about next meetings |  |
+
+
+## Micro-workshop
+Microworkshop is proposition of workshop for 45-90 minutes. It can be a list of exercies to specific FP concept
+Topics:
+- Reader Monad
+- Writer Monad
+- Monad transformer
+- Semigroupal
+- Validated
+- Foldable
+- Traversable
+- Property based testing
+- IO
 
 
 
