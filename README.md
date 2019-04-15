@@ -30,8 +30,9 @@ This page is for scheduling FP reading club meetings and topics.
 
 
 ## Micro-workshop
-Microworkshop is proposition of workshop for 45-90 minutes. It can be a list of exercies to specific FP concept
-Topics:
+Microworkshop is proposition of workshop for 45-90 minutes. It can be a list of exercises for specific FP topics.
+
+Topics propositions:
 - Reader Monad
 - Writer Monad
 - Monad transformer
@@ -41,7 +42,6 @@ Topics:
 - Traversable
 - Property based testing
 - IO
-
 
 
 ## Topics for future:
