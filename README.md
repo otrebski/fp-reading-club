@@ -2,6 +2,17 @@
 
 This page is for scheduling FP reading club meetings and topics.
 
+## Next meetings
+On next meetings we are going to cover following topics:
+  - Property base testing - workshop
+  - Cats Validated - workshop
+  - Validated - code review
+  - Functional frontend
+  - IO[A]
+  
+**These topics we will start in May. Specific dates will be decided later**
+
+
 ## Our schedule
 
 | Date        |  Topic                        | Link                                                                             |
@@ -28,16 +39,6 @@ This page is for scheduling FP reading club meetings and topics.
 |  27.03.2019 | Cats Effects - IO: Describing Effects        | [Cats doc](https://typelevel.org/cats-effect/datatypes/io.html#describing-effects)           |
 |  16.04.2019 | Discussion about next meetings |  |
 
-
-## Next meetings
-On next meetings we are going to cover following topics:
-  - Property base testing - workshop
-  - Cats Validated - workshop
-  - Validated - code review
-  - Functional frontend
-  - IO[A]
-  
-**These topics we will start in May.**
 
 ## Micro-workshop
 Microworkshop is proposition of workshop for 45-90 minutes. It can be a list of exercises for specific FP topics.
