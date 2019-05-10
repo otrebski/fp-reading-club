@@ -38,6 +38,7 @@ On next meetings we are going to cover following topics:
 |  06.03.2019 | State Monad workshop | [Project on github](https://github.com/otrebski/state-monad) |
 |  27.03.2019 | Cats Effects - IO: Describing Effects        | [Cats doc](https://typelevel.org/cats-effect/datatypes/io.html#describing-effects)           |
 |  16.04.2019 | Discussion about next meetings |  |
+|  15.05.2019 | http4s - Functional HTTP server | Talk by [@kubkoz](https://github.com/kubukoz) and discussion |
 
 
 ## Micro-workshop
