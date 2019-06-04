@@ -39,6 +39,8 @@ On next meetings we are going to cover following topics:
 |  27.03.2019 | Cats Effects - IO: Describing Effects        | [Cats doc](https://typelevel.org/cats-effect/datatypes/io.html#describing-effects)           |
 |  16.04.2019 | Discussion about next meetings |  |
 |  15.05.2019 | http4s - Functional HTTP server | Talk by [@kubkoz](https://github.com/kubukoz) and discussion |
+|  11.06.2019 | Data validation with cats - Example | Code review prepared by Bartek |
+|  18.06.2019 | Functional GUI | Code examples of GUI created in functional way by Marta |
 
 
 ## Micro-workshop
