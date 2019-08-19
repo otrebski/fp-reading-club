@@ -4,11 +4,7 @@ This page is for scheduling FP reading club meetings and topics.
 
 ## Next meetings
 On next meetings we are going to cover following topics:
-  - Property base testing - workshop
-  - Cats Validated - workshop
-  - Validated - code review
-  - Functional frontend
-  - IO[A]
+  - IO[A] - workshop
   
 **These topics we will start in May. Specific dates will be decided later**
 
