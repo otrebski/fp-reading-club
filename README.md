@@ -38,6 +38,7 @@ On next meetings we are going to cover following topics:
 |  11.06.2019 | Data validation with cats - Example | Code review prepared by Bartek |
 |  10.07.2019 | Metals - compilation server | Tools demo by Kamil |
 |  15.07.2019 | Functional GUI | Code examples of GUI created in functional way by Marta |
+|  17.01.2020 | Order, lattices and Conflict-Free Replicated Data Types by Eryk |
 |  xx.xx.2019 | IO workshop | Workshop by Pawel |
 
 
