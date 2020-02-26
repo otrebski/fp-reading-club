@@ -4,6 +4,13 @@ This page is for scheduling FP reading club meetings and topics.
 
 ## Our schedule
 
+### Futre
+| Date        |  Topic                        | Link                                                                             |
+| ----------- | ----------------------------- | -------------------------------------------------------------------------------- |
+|  xx.03.2020 | App testing - Java vs Scala with IO and Tagless Final by Krzysztof |
+|  xx.xx.xxxx | IO workshop | Workshop by Pawel |
+### Past
+
 | Date        |  Topic                        | Link                                                                             |
 | ----------- | ----------------------------- | -------------------------------------------------------------------------------- |
 |  09.10.2018 | Type classes                  | [Scala with cats](https://books.underscore.io/scala-with-cats/scala-with-cats.html)                 |
@@ -33,8 +40,7 @@ This page is for scheduling FP reading club meetings and topics.
 |  15.07.2019 | Functional GUI | Code examples of GUI created in functional way by Marta |
 |  17.01.2020 | Order, lattices and Conflict-Free Replicated Data Types by Eryk - part 1|
 |  25.02.2020 | Order, lattices and Conflict-Free Replicated Data Types by Eryk - part 2|
-|  xx.03.2020 | App testing - Java vs Scala with IO and Tagless Final by Krzysztof |
-|  xx.xx.xxxx | IO workshop | Workshop by Pawel |
+
 
 
 ## Micro-workshop
