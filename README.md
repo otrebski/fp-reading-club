@@ -2,13 +2,6 @@
 
 This page is for scheduling FP reading club meetings and topics.
 
-## Next meetings
-On next meetings we are going to cover following topics:
-  - IO[A] - workshop
-  
-**These topics we will start in May. Specific dates will be decided later**
-
-
 ## Our schedule
 
 | Date        |  Topic                        | Link                                                                             |
@@ -38,8 +31,10 @@ On next meetings we are going to cover following topics:
 |  11.06.2019 | Data validation with cats - Example | Code review prepared by Bartek |
 |  10.07.2019 | Metals - compilation server | Tools demo by Kamil |
 |  15.07.2019 | Functional GUI | Code examples of GUI created in functional way by Marta |
-|  17.01.2020 | Order, lattices and Conflict-Free Replicated Data Types by Eryk |
-|  xx.xx.2019 | IO workshop | Workshop by Pawel |
+|  17.01.2020 | Order, lattices and Conflict-Free Replicated Data Types by Eryk - part 1|
+|  25.02.2020 | Order, lattices and Conflict-Free Replicated Data Types by Eryk - part 2|
+|  xx.03.2020 | App testing - Java vs Scala with IO and Tagless Final by Krzysztof |
+|  xx.xx.xxxx | IO workshop | Workshop by Pawel |
 
 
 ## Micro-workshop
