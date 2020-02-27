@@ -7,8 +7,8 @@ This page is for scheduling FP reading club meetings and topics.
 ### Futre
 | Date        |  Topic                        | Link                                                                             |
 | ----------- | ----------------------------- | -------------------------------------------------------------------------------- |
-|  xx.03.2020 | App testing - Java vs Scala with IO and Tagless Final by Krzysztof |
-|  xx.xx.xxxx | IO workshop | Workshop by Pawel |
+|  xx.03.2020 | App testing - Java vs Scala with IO and Tagless Final by Krzysztof | |
+|  xx.xx.xxxx | IO workshop | Workshop by Pawel | |
 ### Past
 
 | Date        |  Topic                        | Link                                                                             |
