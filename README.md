@@ -8,9 +8,9 @@ This page is for scheduling FP reading club meetings and topics.
 
 | Date        |  Topic                        | Link                                                                             |
 | ----------- | ----------------------------- | -------------------------------------------------------------------------------- |
-|  11.03.2020 | ZIO by Bartek                 |                                                                                  |
-|  TBD        | Pure concurrent queue with MVar      |                                                                                  |
-|  TBD        | Concurrency with Cats Effects Ref     |                                                                                  |
+|  11.03.2020 | ZIO by Bartek                 | [Docs](https://zio.dev/) |
+|  TBD        | Pure concurrent queue with MVar      | [Docs](https://typelevel.org/cats-effect/concurrency/mvar.html) |
+|  TBD        | Concurrency with Cats Effects Ref     | [Blog](https://lewisjkl.com/cats-effect-ref/), [Docs](https://typelevel.org/cats-effect/concurrency/ref.html) |
 |  TBD        | App testing - Java vs Scala with IO and Tagless Final by Krzysztof |                                             |
 |  TBD        | IO workshop                   |                                                                                  |
 
