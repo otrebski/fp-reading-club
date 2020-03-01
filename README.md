@@ -4,12 +4,15 @@ This page is for scheduling FP reading club meetings and topics.
 
 ## Our schedule
 
-### Futre
+### Future
 
 | Date        |  Topic                        | Link                                                                             |
 | ----------- | ----------------------------- | -------------------------------------------------------------------------------- |
-|  xx.03.2020 | App testing - Java vs Scala with IO and Tagless Final by Krzysztof | |
-|  xx.xx.xxxx | IO workshop | Workshop by Pawel | |
+|  11.03.2020 | ZIO by Bartek                 |                                                                                  |
+|  TBD        | Pure concurrent queue with MVar      |                                                                                  |
+|  TBD        | Concurrency with Cats Effects Ref     |                                                                                  |
+|  TBD        | App testing - Java vs Scala with IO and Tagless Final by Krzysztof |                                             |
+|  TBD        | IO workshop                   |                                                                                  |
 
 ### Past
 
@@ -69,5 +72,5 @@ Topics propositions:
  - Cats Effects
  - Free Monad
  - Tagless Final
- 
+
 
